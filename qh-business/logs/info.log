@@ -1,0 +1,10 @@
+2017-03-22 10:46:34.948 [main] INFO  com.jingyunbank.etrade.LeguTradeApplication - Starting LeguTradeApplication on USER-20151012TL with PID 3540 (D:\wjtx\legu-etrade-service\legu-etrade\target\classes started by Administrator in D:\wjtx\legu-etrade-service\legu-etrade)
+2017-03-22 10:46:34.952 [main] INFO  com.jingyunbank.etrade.LeguTradeApplication - No profiles are active
+2017-03-22 10:47:13.359 [main] INFO  com.jingyunbank.etrade.LeguTradeApplication - Started LeguTradeApplication in 39.146 seconds (JVM running for 41.311)
+2017-03-23 09:25:07.438 [main] INFO  com.jingyunbank.etrade.LeguTradeApplication - Starting LeguTradeApplication on USER-20151012TL with PID 7004 (D:\wjtx\legu-etrade-service\legu-etrade\target\classes started by Administrator in D:\wjtx\legu-etrade-service\legu-etrade)
+2017-03-23 09:25:07.457 [main] INFO  com.jingyunbank.etrade.LeguTradeApplication - No profiles are active
+2017-03-23 09:26:20.706 [main] INFO  com.jingyunbank.etrade.LeguTradeApplication - Started LeguTradeApplication in 75.015 seconds (JVM running for 77.675)
+2017-08-03 11:11:00.894 [main] INFO  com.ola.qh.OlaTradeApplication - Starting OlaTradeApplication on AIO-20170320THL with PID 65652 (D:\project\ola\qh-web\target\classes started by Administrator in D:\project\ola\qh-web)
+2017-08-03 11:11:00.899 [main] INFO  com.ola.qh.OlaTradeApplication - No profiles are active
+2017-08-03 11:11:27.626 [main] INFO  com.ola.qh.OlaTradeApplication - Started OlaTradeApplication in 27.223 seconds (JVM running for 28.552)
+2017-08-03 11:12:40.335 [http-nio-2222-exec-3] INFO  com.ola.qh.seivice.sms.imp.SmsAliService - 清货大师&SMS_10640582&{"product":"清货大师","code":"9954"}
